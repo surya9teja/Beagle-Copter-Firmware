@@ -6,9 +6,9 @@ Beagle-copter is a Quadcopter project in c++ using Beaglebone black as a Flight 
 
 Projects That I Refered for Beagle-Copter
 -----------------------------------------
-Xu Shirui - Beagle-fly Project
+beaglebone black community - Beagle-fly Project
 
-Build your own Quadcopter - Ghowen
+Build your own Quadcopter 
 
 PRU Assembly Instructions - Texas Instruments
 
@@ -19,7 +19,7 @@ Final Presentation for the Project can be found at http://antodominic.com/beagle
 How to run this Code on BBB
 ---------------------------
 1) Clone Beagle-copter into your BBB 
-$ git clone https://github.com/antodoms/beagle-copter.git
+$ git clone https://github.com/surya9teja/beagle-copter.git
 
 2) Now navigate to beagle-copter folder and make an executive file "controls"
 $ make CROSS_COMPILE=""
@@ -34,11 +34,11 @@ $ ./controls
 
 Project Guide
 -------------
-Cyriac M Odackal
+surya teja
 
 
 Project Team
 ---------------
-Anto Dominic
-Dalbin Jose
-Vishak Baby
+naveen raja
+prasanth
+sowmith
